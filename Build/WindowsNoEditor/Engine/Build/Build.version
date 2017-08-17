@@ -1,0 +1,10 @@
+{
+	"MajorVersion" : 4,
+	"MinorVersion" : 16,
+	"PatchVersion" : 3,
+	"Changelist" : 3561208,
+	"CompatibleChangelist" : 3452394,
+	"IsLicenseeVersion" : 0,
+	"IsPromotedBuild" : 1,
+	"BranchName" : "++UE4+Release-4.16"
+}
