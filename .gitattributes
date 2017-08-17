@@ -1,0 +1,1 @@
+Build/WindowsNoEditor/Engine/Binaries/Win64/UE4Game.exe filter=lfs diff=lfs merge=lfs -text
